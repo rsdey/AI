@@ -1,6 +1,6 @@
 # AI ASSIGNMENT 1
 
-This is a simple reflex baseed agent which works on the percepts read from the bc.txt file
+This is a simple reflex baseed agent which works on the percepts read from the bc.txt file and prints the actions taken by the cleaner in the ac.txt file.
 
 
 MAIN FILE : VACCUM_CLEANER.py

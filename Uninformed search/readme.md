@@ -4,7 +4,7 @@ Input:
 4 2 5
 7 8 6
 
-Output:
+Output :
 
 
 0 1 3
